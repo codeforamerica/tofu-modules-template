@@ -63,8 +63,14 @@ tofu init -upgrade
 | id       | Id of the newly created resource. | `string` |
 
 
+## Contributing
+
+Follow the [contributing guidelines][contributing] to contribute to this
+repository.
+
 [badge-checks]: https://github.com/codeforamerica/tofu-modules-template/actions/workflows/main.yaml/badge.svg
 [badge-release]: https://img.shields.io/github/v/release/codeforamerica/tofu-modules-template?logo=github&label=Latest%20Release
 [code-checks]: https://github.com/codeforamerica/tofu-modules-template/actions/workflows/main.yaml
+[contributing]: CONTRIBUTING.md
 [latest-release]: https://github.com/codeforamerica/tofu-modules-template/releases/latest
 [tofu-modules]: https://github.com/codeforamerica/tofu-modules
