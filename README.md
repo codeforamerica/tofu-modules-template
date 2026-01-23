@@ -1,6 +1,6 @@
 # Code for America OpenTofu Module Template
 
-[![Main Checks][badge-checks]][code-checks] [![GitHub Release][badge-release]][latest-release]
+[![GitHub Release][badge-release]][latest-release]
 
 Use this template repository to create new OpenTofu modules. Follow the steps
 below to use this repository:
@@ -68,9 +68,7 @@ tofu init -upgrade
 Follow the [contributing guidelines][contributing] to contribute to this
 repository.
 
-[badge-checks]: https://github.com/codeforamerica/tofu-modules-template/actions/workflows/main.yaml/badge.svg
 [badge-release]: https://img.shields.io/github/v/release/codeforamerica/tofu-modules-template?logo=github&label=Latest%20Release
-[code-checks]: https://github.com/codeforamerica/tofu-modules-template/actions/workflows/main.yaml
 [contributing]: CONTRIBUTING.md
 [latest-release]: https://github.com/codeforamerica/tofu-modules-template/releases/latest
 [tofu-modules]: https://github.com/codeforamerica/tofu-modules
