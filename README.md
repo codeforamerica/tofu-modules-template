@@ -7,6 +7,7 @@ below to use this repository:
 
 1. Click the "Use this template" button to create a new repository
 1. Name your new repository using the format `todu-modules-<provider>-<module>`
+1. Update the repository Pull Requests settings to allow only **squash merging** with a default commit message of "Pull request title and commit details" for automated releases
 1. Add the files necessary to support your module to the root of your new
    repository
 1. Update the `README.md` file with the appropriate information for your module.
